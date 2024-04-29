@@ -1,1 +1,2 @@
+https://dev.to/maj07/pre-rendering-an-angular-app-4ado
 https://lazypandatech.com/blog/Angular/2/SEO-Enablement-to-an-Angular-application/
