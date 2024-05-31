@@ -1,2 +1,4 @@
 https://dev.to/maj07/pre-rendering-an-angular-app-4ado
 https://lazypandatech.com/blog/Angular/2/SEO-Enablement-to-an-Angular-application/
+https://prerender.io/blog/how-prerender-renders-javascript-websites/
+https://www.seoclarity.net/blog/angularjs-seo#what-is-angularjs
